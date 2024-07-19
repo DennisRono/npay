@@ -1,4 +1,4 @@
-_Have you read the [Contributing Guidelines](https://github.com/DennisRono/.github/blob/master/CONTRIBUTING.md)?_
+_Have you read the [Contributing Guidelines](https://github.com/DennisRono/.github/blob/main/CONTRIBUTING.md)?_
 
 Issue #
 

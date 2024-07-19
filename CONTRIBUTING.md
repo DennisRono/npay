@@ -88,7 +88,7 @@ _Note: All contributions will be licensed under the project's license._
 
 - **Update the CHANGELOG** for all enhancements and bug fixes. Include the corresponding issue number if one exists, and your GitHub username. (example: "- Fixed crash in profile view. #123 @DennisRono")
 
-- **Use the repo's default branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the repo's default branch. Usually this is `main`, but it could be `dev`, `develop`, or `master`.
+- **Use the repo's default branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the repo's default branch. Usually this is `main`, but it could be `dev`, `develop`, or `main`.
 
 - **[Resolve any merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)** that occur.
 
@@ -187,9 +187,9 @@ Written by [@DennisRono](https://github.com/DennisRono).
 
 _Many of the ideas and prose for the statements in this document were based on or inspired by work from the following communities:_
 
-- [Alamofire](https://github.com/Alamofire/Alamofire/blob/master/CONTRIBUTING.md)
-- [CocoaPods](https://github.com/CocoaPods/CocoaPods/blob/master/CONTRIBUTING.md)
-- [Docker](https://github.com/moby/moby/blob/master/CONTRIBUTING.md)
+- [Alamofire](https://github.com/Alamofire/Alamofire/blob/main/CONTRIBUTING.md)
+- [CocoaPods](https://github.com/CocoaPods/CocoaPods/blob/main/CONTRIBUTING.md)
+- [Docker](https://github.com/moby/moby/blob/main/CONTRIBUTING.md)
 - [Linux](https://elinux.org/Developer_Certificate_Of_Origin)
 
 _We commend them for their efforts to facilitate collaboration in their projects._
