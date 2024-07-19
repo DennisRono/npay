@@ -9,7 +9,7 @@ import HubSpot from '@/assets/images/hubspot.png'
 
 const Landing = () => {
   return (
-    <div className="h-[calc(100vh-56px)]">
+    <div className="h-[calc(100vh-56px)] flex flex-col justify-start">
       <div className="container h-full">
         <div className="flex items-center justify-evenly h-full gap-2">
           <div className="flex-1">
