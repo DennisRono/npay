@@ -2,7 +2,7 @@ import React from 'react'
 import { NavMenuItem } from './NavMenuItem'
 import Link from 'next/link'
 import Image from 'next/image'
-import NullChemy from '@/assets/images/nullchemy_logo.png'
+import NullChemy from '@/assets/images/npay_logo.svg'
 
 const Header = () => {
   return (
@@ -10,8 +10,9 @@ const Header = () => {
       <div className="container h-full">
         <div className="flex items-center justify-between gap-2 h-full">
           <div className="flex items-center justify-start gap-1">
-            <Image src={NullChemy} alt="" className="w-[35px]" />
-            <h1 className="font-bold text-3xl uppercase">pay</h1>
+            <Link href="/">
+              <Image src={NullChemy} alt="" className="h-[45px] -ml-[37px]" />
+            </Link>
           </div>
           <div className="">
             <NavMenuItem />

@@ -4,9 +4,9 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className="h-min bg-black mt-4">
-      <div className="container">
+      <div className="container mx-auto">
         <div className="">
-          <div className="flex items-start justify-start py-14">
+          <div className="flex items-start justify-evenly py-14">
             <div className="flex-1">
               <h1 className="text-white font-bold text-2xl uppercase">
                 Company
@@ -118,7 +118,7 @@ const Footer = () => {
           </div>
           <div className="flex items-center justify-center py-8">
             <p className="text-center text-white">
-              copyright &copy; {new Date().getFullYear()} - Made with ❤️ by
+              copyright &copy; {new Date().getFullYear()} - Made with ❤️ by{' '}
               <a
                 href="http://denniskibet.com"
                 target="_blank"

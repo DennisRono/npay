@@ -6,6 +6,7 @@ import Asana from '@/assets/images/asana.png'
 import Intercom from '@/assets/images/intercom.svg'
 import Gong from '@/assets/images/gong.png'
 import HubSpot from '@/assets/images/hubspot.png'
+import Kibet from '@/assets/images/kibet.png'
 
 const Landing = () => {
   return (
@@ -29,7 +30,9 @@ const Landing = () => {
               Get Started
             </Link>
           </div>
-          <div className="flex-1"></div>
+          <div className="flex-1 flex items-end justify-center">
+            <Image src={Kibet} alt="" className="scale-95" />
+          </div>
         </div>
       </div>
       <div className="">
