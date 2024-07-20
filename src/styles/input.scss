@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.link_item_footer {
+  @apply my-2 cursor-pointer;
+}
+
+.landing-title {
+  @apply text-2xl xs:text-3xl md:text-4xl lg:text-6xl xl:text-7xl 2xl:text-8xl;
+}
+
+.font_size {
+  @apply text-xs xs:text-sm md:text-lg xl:text-xl 2xl:text-2xl;
+}

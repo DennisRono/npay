@@ -13,10 +13,10 @@ const Landing = () => {
       <div className="container h-full">
         <div className="flex items-center justify-evenly h-full gap-2">
           <div className="flex-1">
-            <h1 className="my-4 text-8xl font-bold">
+            <h1 className="my-4 landing-title font-bold">
               Predictable growth starts here
             </h1>
-            <p className="my-8 text-2xl">
+            <p className="my-8 font_size">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
               magni consectetur officia veniam nesciunt id quos ipsam, pariatur
               nisi blanditiis explicabo vero beatae repellendus qui, rem est
