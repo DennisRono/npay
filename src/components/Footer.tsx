@@ -8,9 +8,7 @@ const Footer = () => {
         <div className="">
           <div className="flex items-start justify-evenly py-14">
             <div className="flex-1">
-              <h1 className="text-white font-bold text-2xl uppercase">
-                Company
-              </h1>
+              <h1 className="text-white font-bold text-2xl uppercase">Npay</h1>
               <ul className="">
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
@@ -41,76 +39,76 @@ const Footer = () => {
               <ul className="">
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Terms of Service
+                    Developers
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Privacy Policy
+                    Careers
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Cookie Policy
+                    Partners
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white ">
-                    Our Blog
+                    Shop
                   </Link>
                 </li>
               </ul>
             </div>
             <div className="flex-1">
               <h1 className="text-white font-bold text-2xl uppercase">
-                Company
+                Services
               </h1>
               <ul className="">
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Terms of Service
+                    Security
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Privacy Policy
+                    Fees
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Cookie Policy
+                    Help
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white ">
-                    Our Blog
+                    Accessibility
                   </Link>
                 </li>
               </ul>
             </div>
             <div className="flex-1">
               <h1 className="text-white font-bold text-2xl uppercase">
-                Company
+                Products
               </h1>
               <ul className="">
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Terms of Service
+                    Features
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Privacy Policy
+                    Contact Us
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white">
-                    Cookie Policy
+                    Clients
                   </Link>
                 </li>
                 <li className="link_item_footer">
                   <Link href="" className="text-white ">
-                    Our Blog
+                    Who we are
                   </Link>
                 </li>
               </ul>

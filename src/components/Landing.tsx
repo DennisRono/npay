@@ -10,7 +10,7 @@ import Kibet from '@/assets/images/kibet.png'
 
 const Landing = () => {
   return (
-    <div className="h-[calc(100vh-56px)] flex flex-col justify-start">
+    <div className="min-h-[calc(100vh-56px)] flex flex-col justify-start">
       <div className="container h-full">
         <div className="flex items-center justify-evenly h-full gap-2">
           <div className="flex-1">
@@ -31,7 +31,7 @@ const Landing = () => {
             </Link>
           </div>
           <div className="flex-1 flex items-end justify-center">
-            <Image src={Kibet} alt="" className="scale-95" />
+            <Image src={Kibet} alt="" className="lg:scale-75" />
           </div>
         </div>
       </div>
